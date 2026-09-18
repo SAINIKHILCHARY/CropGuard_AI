@@ -1,0 +1,6 @@
+{
+  "name": "CropGuard AI",
+  "description": "Smart Farming for a Stronger Telangana - Pre-cultivation agricultural risk classification and crop yield prediction platform across 32 Telangana districts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
